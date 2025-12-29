@@ -192,6 +192,7 @@ www.amazon.ca##.promoPriceBlockMessage > div
 www.amazon.ca###dealBadge_feature_div
 www.amazon.ca##.mvt-ac-badge-wrapper
 www.amazon.ca##.a-spacing-top-micro.a-spacing-small.a-section
+www.amazon.ca###primeDPUpsellStaticContainer
 
 ! some youtube.com things to hide, to make the website more usable. designed to look good when logged in. does break some things.
 ! note: you must disable cosmetic filtering TEMPORARALY to subscribe to any channel. i recommend going to the channel page, to avoid excessive advertisments.
