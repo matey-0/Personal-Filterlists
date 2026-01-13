@@ -352,6 +352,7 @@ www.merriam-webster.com##.fw-bold.home-btn-blue.btn.text-decoration-none.w-100
 www.merriam-webster.com##.flex-nowrap.container-xxl.navbar
 www.merriam-webster.com##.g-0.col-12.col-md-3.col-lg-3.col-xl-3.right-rail.position-relative.fixed-wrapper
 www.merriam-webster.com##.header-placeholder
+www.merriam-webster.com##.desktop-link.text-center.text-white.w-100.toupee-banner
 
 ! Hide grades in myblueprint.ca when on courses view
 app.myblueprint.ca##.bold.contrastSuccess
