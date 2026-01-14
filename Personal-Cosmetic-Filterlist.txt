@@ -83,7 +83,7 @@ start.duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(5)
 kagi.com##.false.new-tooltip.trigger
 kagi.com##a.n_ne._0_query_link_item.nav_item:nth-of-type(5)
 kagi.com##a.n_ne._0_query_link_item.nav_item:nth-of-type(4)
-kagi.com##.serp_nav_end
+kagi.com##.flex.more_search_dropdown_box
 kagi.com##.__srgi
 kagi.com###_0_land_tooltip_message
 kagi.com##.clearfix.inline-content.list-widget._0_provider-content
