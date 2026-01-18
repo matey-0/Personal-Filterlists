@@ -176,6 +176,7 @@
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 tracking.services.mozilla.com
 0.0.0.0 truehits.net
+0.0.0.0 usage.jetbrains.com
 0.0.0.0 variations.brave.com
 0.0.0.0 vf.startpage.com
 0.0.0.0 videos-cdn.mozilla.net
