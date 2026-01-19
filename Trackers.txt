@@ -51,9 +51,6 @@ xn--*$doc,popup,frame
 /widget/ads.$important
 
 ! General Trackers, Analytics, Telemetry, etc
-! General Trackers, Analytics, Telemetry, etc
-! All entries standardized to ||domain^$important format
-
 ||acobt.tech^$important
 ||afs.googlesyndication.com^$important
 ||an.facebook.com^$important
