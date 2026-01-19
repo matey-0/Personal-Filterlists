@@ -101,6 +101,7 @@ kagi.com##.relative.align-center.flex.qa-form
 kagi.com##.n_vi._0_query_link_item.nav_item
 kagi.com##.wid_stocks_news_w
 kagi.com##div.wid_stocks_link_ext_w:nth-of-type(7)
+kagi.com##.clearfix._0_SRI_BODY_VID.--vid.__sri-body
 
 ! quick & dirty slight clean up of qwant, not great, needs improvement at a later date
 www.qwant.com##._2p-Ie._396aK.amHBC._23lip._2loWJ
@@ -193,6 +194,8 @@ www.amazon.ca###dealBadge_feature_div
 www.amazon.ca##.mvt-ac-badge-wrapper
 www.amazon.ca##.a-spacing-top-micro.a-spacing-small.a-section
 www.amazon.ca###primeDPUpsellStaticContainer
+www.amazon.ca###sc-abovethefold
+www.amazon.ca###sc-functional
 
 ! some youtube.com things to hide, to make the website more usable. designed to look good when logged in. does break some things.
 ! note: you must disable cosmetic filtering TEMPORARALY to subscribe to any channel. i recommend going to the channel page, to avoid excessive advertisments.
