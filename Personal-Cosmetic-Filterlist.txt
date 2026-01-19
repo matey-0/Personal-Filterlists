@@ -524,9 +524,8 @@ www.theweathernetwork.com##.HxdkO.sc-lpYOg
 www.theweathernetwork.com##.isoIva.dzvDQE.sc-ghzrUh.sc-lpYOg
 www.theweathernetwork.com##.bLNLLN.sc-dIHSXr
 
-! hide a few things from my prefered redlib instances
+! hide one misc thing from my prefered redlib instance
 redlib.catsarch.com###links
-lr.ptr.moe###links
 
 ! Remove all the AI upsells and visual noise
 hemingwayapp.com##.flex-grow.flex-col.flex.mt-14
