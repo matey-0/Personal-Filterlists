@@ -543,3 +543,5 @@ hemingwayapp.com##.hover\:dark\:border-fuchsia-300.hover\:border-fuchsia-700.dar
 hemingwayapp.com##.justify-around.flex-row.flex.w-2\/3
 hemingwayapp.com##.top-8.z-10.left-0.fixed.w-screen
 
+! Remove some annoying things
+www.khanacademy.org##._10otmayb
