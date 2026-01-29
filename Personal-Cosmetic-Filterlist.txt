@@ -501,6 +501,7 @@ docs.google.com##.gb_y
 ! Hide a few annoying elements in the gemini web ui
 gemini.google.com##.hide-from-message-actions.show-header.tool-attribution
 gemini.google.com##.mat-unthemed.gds-upsell-button.mat-mdc-unelevated-button
+gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
 
 ! hide the silly anubis anti-AI-crawlers catgirl mascot found on certain linux-related webpages i visit
 *anubis/static/img/pensive.webp$image
