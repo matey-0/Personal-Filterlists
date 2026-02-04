@@ -549,8 +549,11 @@ hemingwayapp.com##.top-8.z-10.left-0.fixed.w-screen
 ! Remove some annoying things
 www.khanacademy.org##._10otmayb
 
-! I swear I don't read CBC on my own; it was for a class
+! I swear I don't read CBC on my own; it was for English class
 www.cbc.ca##.detailSideRail
 www.cbc.ca##.relatedlinks
 www.cbc.ca##div.detailBodyContainer:nth-of-type(2) > .withFlex
 www.cbc.ca##.milanoGlobalBanner-TdZgM
+www.cbc.ca##.similarListItem
+www.cbc.ca##div.withFlex:nth-of-type(2)
+
