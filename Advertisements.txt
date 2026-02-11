@@ -106,4 +106,4 @@ www.nitrotype.com##.ad--side.ad
 www.nitrotype.com##.link--bare.link.goldTeaser
 www.nitrotype.com##.structure-spacer-left
 www.nitrotype.com##.ad--container--side.structure-leaderboard
-
+www.ted.com##.pt-3.pb-6.w-full.duration-300.transition-all
