@@ -44,6 +44,7 @@
 0.0.0.0 cookielaw.org
 0.0.0.0 crash-stats.mozilla.com
 0.0.0.0 crash-stats.mozilla.org
+0.0.0.0 crash.steampowered.com
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 de.malware-error.mozilla.com
@@ -70,6 +71,7 @@
 0.0.0.0 insights.hotjar.com
 0.0.0.0 intranet.mozilla.org
 0.0.0.0 ioncheck.prod.mozaws.net
+0.0.0.0 jba-telemetry.jetbrains.com
 0.0.0.0 kickoffo.site
 0.0.0.0 klickly.com
 0.0.0.0 laptop-updates.brave.com
@@ -156,6 +158,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.wp.com
+0.0.0.0 status.discordapp.com
 0.0.0.0 stun.services.mozilla.com
 0.0.0.0 support.live.mozillamessaging.com
 0.0.0.0 support.mozillamessaging.com
@@ -164,6 +167,7 @@
 0.0.0.0 telemetry-backend.allizom.org
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 telemetry.vsassets.io
 0.0.0.0 testpilot.firefox.com
 0.0.0.0 thisdata.com
 0.0.0.0 tiles-cloudfront.cdn.mozilla.net
@@ -173,6 +177,8 @@
 0.0.0.0 tracking.services.mozilla.com
 0.0.0.0 truehits.net
 0.0.0.0 usage.jetbrains.com
+0.0.0.0 usage.jetbrains.com
+0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 variations.brave.com
 0.0.0.0 vf.startpage.com
 0.0.0.0 videos-cdn.mozilla.net
