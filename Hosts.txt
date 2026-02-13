@@ -31,6 +31,7 @@
 0.0.0.0 bloggerpemula.pythonanywhere.com
 0.0.0.0 bouncer-bouncer-elb.prod.mozaws.net
 0.0.0.0 broker-live.mozillamessaging.com
+0.0.0.0 browser.events.data.static.cloudflare.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsnag.com
 0.0.0.0 cdn.cookielaw.org
@@ -125,6 +126,7 @@
 0.0.0.0 qsurvey.mozilla.com
 0.0.0.0 rayo.pereira.multi.net.co
 0.0.0.0 realtime.luckyorange.com
+0.0.0.0 report-uri.cloudflare.com
 0.0.0.0 reps.mozilla.org
 0.0.0.0 rewards.brave.com
 0.0.0.0 safebrowsing.googleapis.com
