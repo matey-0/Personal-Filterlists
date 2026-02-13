@@ -15,7 +15,6 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 api-adservices.apple.com
-0.0.0.0 api-adservices.apple.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.luckyorange.com
@@ -34,6 +33,7 @@
 0.0.0.0 browser.events.data.static.cloudflare.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsnag.com
+0.0.0.0 caramail.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.grainify.com
 0.0.0.0 cdn.luckyorange.com
@@ -44,6 +44,7 @@
 0.0.0.0 cookielaw.org
 0.0.0.0 crash-stats.mozilla.com
 0.0.0.0 crash-stats.mozilla.org
+0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 de.malware-error.mozilla.com
 0.0.0.0 de.malware-report.mozilla.com
@@ -91,6 +92,7 @@
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mozilla.dorando.at
+0.0.0.0 mozilla.org.cdn.cloudflare.net
 0.0.0.0 news-cdn.site
 0.0.0.0 normandy-admin-bearer.dev.mozaws.net
 0.0.0.0 normandy-admin-bearer.prod.mozaws.net
@@ -112,6 +114,7 @@
 0.0.0.0 o4.ingest.sentry.io
 0.0.0.0 onyx_tiles.stage.mozaws.net
 0.0.0.0 opensearch-live.mozillamessaging.com
+0.0.0.0 outparams.metrics.mozilla.com
 0.0.0.0 p3a.brave.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partnerads.ysm.yahoo.com
@@ -131,7 +134,6 @@
 0.0.0.0 rewards.brave.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 sb-ssl.google.com
-0.0.0.0 sb-ssl.google.com
 0.0.0.0 sb.google.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 search.r53-2.services.mozilla.com
@@ -149,17 +151,8 @@
 0.0.0.0 soft-start.loop.services.mozilla.com
 0.0.0.0 sonatns.sonatrach.dz
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 statcounter.com
 0.0.0.0 static-san.mozilla.org
-0.0.0.0 search.r53-2.services.mozilla.com
-0.0.0.0 search.services.mozilla.com
-0.0.0.0 self-repair.mozilla.org
-0.0.0.0 services.nofraud.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 shavar.developer-services.mozilla.com
-0.0.0.0 shavar.services.mozilla.com
-0.0.0.0 soft-start.loop.services.mozilla.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.wp.com
@@ -168,6 +161,7 @@
 0.0.0.0 support.mozillamessaging.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 taboola.com
+0.0.0.0 telemetry-backend.allizom.org
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 testpilot.firefox.com
@@ -192,8 +186,3 @@
 0.0.0.0 webserv.mos.ru
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 www.caramail.com
-0.0.0.0 www.firefoxflicks.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 www.mozilla.org.cdn.cloudflare.net
