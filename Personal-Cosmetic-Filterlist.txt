@@ -503,6 +503,8 @@ docs.google.com##.gb_y
 gemini.google.com##.hide-from-message-actions.show-header.tool-attribution
 gemini.google.com##.mat-unthemed.gds-upsell-button.mat-mdc-unelevated-button
 gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
+gemini.google.com##.product-carousel-wrapper
+gemini.google.com##.three-images.single-product-card-view.product-card
 
 ! hide the silly anubis anti-AI-crawlers catgirl mascot found on certain linux-related webpages i visit
 *anubis/static/img/pensive.webp$image
