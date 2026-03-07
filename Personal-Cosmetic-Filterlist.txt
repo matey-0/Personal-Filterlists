@@ -361,7 +361,8 @@ www.merriam-webster.com##.desktop-link.text-center.text-white.w-100.toupee-banne
 ! Hide grades in myblueprint.ca when on courses view
 app.myblueprint.ca##.bold.contrastSuccess
 
-! removes some element or other
+! removes some elements or other; one of these hides the star button
+github.com##.d-flex.starring-container.js-social-container.js-toggler-container
 github.com##div.react-code-size-details-in-header:nth-of-type(2)
 github.com##.global-banner--universe_25_3-visuals-container
 github.com##.text-medium.text-center.px-lg-8.px-md-5.px-4.global-banner--universe_25_3-style-duck.global-banner--universe_25_3.lh-condensed.position-relative.d-block.global-banner
