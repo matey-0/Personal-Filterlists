@@ -565,3 +565,7 @@ www.cbc.ca##.milanoGlobalBanner-TdZgM
 www.cbc.ca##.similarListItem
 www.cbc.ca##div.withFlex:nth-of-type(2)
 
+! Hide Lastfm pro upsells
+www.last.fm##.buffer-3.your-progress > div
+
+
