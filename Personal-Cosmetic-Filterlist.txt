@@ -67,6 +67,7 @@ duckduckgo.com###react-duckbar li:has-text(Search Assist)
 duckduckgo.com##li:first-child:has([data-testid="duckassist-answer-content"])
 duckduckgo.com##.YU2JXQWzBxr5xRv1Zn_H
 duckduckgo.com##ul:nth-of-type(2)
+duckduckgo.com##li:nth-of-type(3) > .nOpYdHAdSD_d47TfU1p8.KE_4ibtn0WI3iUo6lJw9 > .P3PpyTb2TLJojWzVTZdE.UWzy821Y58lvrLxQ7fnz
 duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(2)
 duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(3)
 duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(4)
@@ -250,6 +251,7 @@ www.youtube.com##.ytp-chrome-top-buttons > .ytp-button.ytp-watch-later-button > 
 www.youtube.com##.ytp-share-button-visible.ytp-share-button.ytp-button > .ytp-share-icon
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
 www.youtube.com##.ytSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
+www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
 !
 ! my filters that remove crap from mobile youtube (shorts, games, etc)
 m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
@@ -492,6 +494,7 @@ google.com##[data-mcpr]
 google.com##[role="listitem"]:has(a[href*="aep=1&ntc=1"])
 google.com##button:has(path[d^="M17.5 12c0-3.04 2.46-5.5"])
 google.com##li[data-attrid$="Prediction"]:has([aria-description="AI Mode"])
+www.google.com##.ZpdpPe
 
 ! clean up gmail site
 mail.google.com###google-hats-survey
@@ -568,5 +571,5 @@ www.cbc.ca##div.withFlex:nth-of-type(2)
 ! Hide Lastfm pro upsells
 www.last.fm##.buffer-3.your-progress > div
 www.last.fm##.listening-report-row--upsell.listening-report-row--centered.listening-report-row
-
+www.last.fm##.hidden-xs.promo-v3 > .listening-report-promo--month.listening-report-promo
 
