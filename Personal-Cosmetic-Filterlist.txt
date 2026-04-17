@@ -72,6 +72,9 @@ duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(2)
 duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(3)
 duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(4)
 duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(5)
+duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
+duckduckgo.com##.YL_aMfikzFszfcc4KLSh.js-react-sidebar.gdzyb9PgLazLyi4DKK0O
+duckduckgo.com##.q3Y6JH2mQqbMm6F6wNQy
 start.duckduckgo.com##ul:nth-of-type(2)
 start.duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(2)
 start.duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(3)
