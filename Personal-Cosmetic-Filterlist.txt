@@ -427,7 +427,6 @@ github.com##div[class*=prc-PageLayout-Content-]:style(max-width:2200px!important
 github.com##div[id$=conversation-sidebar]:style(width:240px!important)
 github.com##div[class^=IssueViewer] > div[class^=ContentWrapper]:style(max-width:2400px!important)
 
-
 ! removes donation banner at top of page and random ad thing
 tcec-chess.com##.fastart.fbetween
 tcec-chess.com###body > .fastart.fcenter
@@ -572,4 +571,11 @@ www.cbc.ca##div.withFlex:nth-of-type(2)
 www.last.fm##.buffer-3.your-progress > div
 www.last.fm##.listening-report-row--upsell.listening-report-row--centered.listening-report-row
 www.last.fm##.hidden-xs.promo-v3 > .listening-report-promo--month.listening-report-promo
+
+! Clean up the visual apperance of my SearXNG instance
+localhost##.language
+localhost##.search_filters
+localhost###backToTop > [href]
+localhost##.link_on_top_about
+localhost##.link_on_top_preferences
 
