@@ -581,4 +581,5 @@ localhost##.search_filters
 localhost###backToTop > [href]
 localhost##.link_on_top_about
 localhost##.link_on_top_preferences
+localhost##.thumbnail_link
 
