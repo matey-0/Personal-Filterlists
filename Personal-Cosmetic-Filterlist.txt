@@ -255,6 +255,7 @@ www.youtube.com##.ytp-share-button-visible.ytp-share-button.ytp-button > .ytp-sh
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
 www.youtube.com##.ytSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
 www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+www.youtube.com###menu > .ytd-watch-metadata.style-scope
 !
 ! my filters that remove crap from mobile youtube (shorts, games, etc)
 m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
