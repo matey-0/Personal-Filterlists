@@ -11,3 +11,7 @@
 @@clients5.google.com^$domain=google.com
 @@clients6.google.com^$domain=google.com
 perplexity.ai##+js(set,navigator.sendBeacon,trueFunc) 
+@@||accounts.google.com/gsi/*$xhr,script,3p,domain=claude.ai
+@@||accounts.google.com^$third-party,domain=claude.ai
+@@||appleid.apple.com^$third-party,domain=claude.ai
+@@||appleid.cdn-apple.com^$third-party,domain=claude.ai
