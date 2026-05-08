@@ -75,6 +75,7 @@ duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(5)
 duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
 duckduckgo.com##.YL_aMfikzFszfcc4KLSh.js-react-sidebar.gdzyb9PgLazLyi4DKK0O
 duckduckgo.com##.q3Y6JH2mQqbMm6F6wNQy
+duckduckgo.com##.LyWdLuy0Ygu0M7IF12o7
 start.duckduckgo.com##ul:nth-of-type(2)
 start.duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(2)
 start.duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(3)
@@ -178,6 +179,8 @@ discord.com##.d125d22cdfd32cfe-content > li.e45859d60799ad7c-container._972a0d22
 discord.com##._553bf02027ac2419-wrapper
 discord.com##div:nth-of-type(3) > .e45859d60799ad7c-container._972a0d22c8afa7f0-channel
 discord.com##.d125d22cdfd32cfe-scrollerBase.d125d22cdfd32cfe-none.ef3116c2da186559-scroller.dbd2630aec71879b-stack > div._650eb104245d257b-listItem ._918165dab2b1e10b-listItemWrapper
+discord.com##.scrollerBase_d125d2.none_d125d2.scroller_ef3116.stack_dbd263 > div.listItem__650eb > span
+discord.com##.container__877f0.modeSelected__2ea32.wrapper__2ea32.containerDefault_c69b6d
 
 ! amazon.ca visual annoyances filter list, used in conjuncture with a violentmonkey script that makes amazon look like a traditional search engine
 amazon.ca###nav-subnav
@@ -256,6 +259,9 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##.ytSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
 www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
 www.youtube.com###menu > .ytd-watch-metadata.style-scope
+www.youtube.com##.ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextIconLeading.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextOverlay.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
+www.youtube.com###subscribe-button-shape
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
 !
 ! my filters that remove crap from mobile youtube (shorts, games, etc)
 m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
@@ -336,33 +342,6 @@ wikipedia.org##.survey-content.message
 wikipedia.org###frb-inline
 wikipedia.org###frb-nag
 wikipedia.org###siteNotice
-
-! cleans up the merriam-webster website, make it less ugly. Does remove some 'useful' things, but i generally like this look better
-www.merriam-webster.com##.non-sticky.fixed-wrapper
-www.merriam-webster.com##.d-flex.flex-nowrap.flex-md-row.flex-xl-column.sidebar-padder
-www.merriam-webster.com##.p-0.order-lg-1.align-items-lg-center.justify-content-start.flex-lg-row.flex-column.d-flex.navigation-second-half
-www.merriam-webster.com##.additional-content-area
-www.merriam-webster.com##.footer-menu
-www.merriam-webster.com###left-content > .clearfix
-www.merriam-webster.com##.cafemedia-footer-foot.footer-oa.clearfix.footer-foot
-www.merriam-webster.com###definition-fixed-wrapper
-www.merriam-webster.com##.text-center.rounded.font-logo.est
-www.merriam-webster.com##.flex-shrink-0.flex-column.d-flex.sidebar-container
-www.merriam-webster.com##.position-relative.left-sidebar-col.g-0.col-2
-www.merriam-webster.com###related-articles > .content-section-with-header
-www.merriam-webster.com###related-articles
-www.merriam-webster.com###nearby-entries
-www.merriam-webster.com###citations
-www.merriam-webster.com##.more_defs.widget > .content-section-with-header.widget
-www.merriam-webster.com##.content-section-with-header.more-from.widget
-www.merriam-webster.com###anchor-seporator
-www.merriam-webster.com##.on-web
-www.merriam-webster.com##.home-redesign-layout
-www.merriam-webster.com##.fw-bold.home-btn-blue.btn.text-decoration-none.w-100
-www.merriam-webster.com##.flex-nowrap.container-xxl.navbar
-www.merriam-webster.com##.g-0.col-12.col-md-3.col-lg-3.col-xl-3.right-rail.position-relative.fixed-wrapper
-www.merriam-webster.com##.header-placeholder
-www.merriam-webster.com##.desktop-link.text-center.text-white.w-100.toupee-banner
 
 ! Hide grades in myblueprint.ca when on courses view
 app.myblueprint.ca##.bold.contrastSuccess
@@ -583,4 +562,3 @@ localhost###backToTop > [href]
 localhost##.link_on_top_about
 localhost##.link_on_top_preferences
 localhost##.thumbnail_link
-
