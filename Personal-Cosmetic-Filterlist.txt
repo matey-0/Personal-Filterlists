@@ -562,3 +562,6 @@ localhost###backToTop > [href]
 localhost##.link_on_top_about
 localhost##.link_on_top_preferences
 localhost##.thumbnail_link
+
+! it literally calls itself "disruptive"
+www.canadashistory.ca##.active.hasImage.dark.disruptive-cta
