@@ -343,7 +343,7 @@ wikipedia.org###frb-inline
 wikipedia.org###frb-nag
 wikipedia.org###siteNotice
 
-! Hide grades in myblueprint.ca when on courses view
+! hide grades in myblueprint.ca when on courses view
 app.myblueprint.ca##.bold.contrastSuccess
 
 ! removes some elements or other; one of these hides the star button
@@ -489,7 +489,7 @@ support.google.com##.helpPanelContainerRoot:has-text(Help guide)
 docs.google.com###docs-sidekick-gen-ai-promo-button-container
 docs.google.com##.gb_y
 
-! Hide a few annoying elements in the gemini web ui
+! hide a few annoying elements in the gemini web ui
 gemini.google.com##.hide-from-message-actions.show-header.tool-attribution
 gemini.google.com##.mat-unthemed.gds-upsell-button.mat-mdc-unelevated-button
 gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
@@ -502,13 +502,13 @@ gemini.google.com##sign-in-nudge.ng-star-inserted
 *anubis/static/img/reject.webp$image
 *anubis/static/img/happy.webp$image
 
-! hide canva login propmt overlay
+! Hide canva login propmt overlay
 www.canva.com##.AD_uww.FijAlA.Ue5QFA._2Cfibw
 
-! Remove floating video player that is so annoying
+! remove floating video player that is so annoying
 www.investopedia.com##.mntl-block.article__primary-video-container--jw.comp
 
-! Tidy up the rampant ads & crap from the weather network site
+! tidy up the rampant ads & crap from the weather network site
 www.theweathernetwork.com##.czwTAn.sc-ddde7d21-1
 www.theweathernetwork.com##.eSLAjj.sc-lpYOg
 www.theweathernetwork.com##.hJsfVh.sc-lpYOg
@@ -523,7 +523,7 @@ www.theweathernetwork.com##.bLNLLN.sc-dIHSXr
 ! hide one misc thing from my prefered redlib instance
 redlib.catsarch.com###links
 
-! Remove all the AI upsells and visual noise
+! remove all the ai upsells and visual noise
 hemingwayapp.com##.flex-grow.flex-col.flex.mt-14
 hemingwayapp.com##.text-sm.dark\:text-sky-200.text-sky-800.dark\:bg-sky-800.bg-sky-200.py-\[0\.5em\].items-center.justify-around.flex-row.w-full.z-\[100\].top-0.fixed.md\:flex.hidden
 hemingwayapp.com##.space-x-2.flex-row.flex > .space-y-2
@@ -539,10 +539,10 @@ hemingwayapp.com##.hover\:dark\:border-fuchsia-300.hover\:border-fuchsia-700.dar
 hemingwayapp.com##.justify-around.flex-row.flex.w-2\/3
 hemingwayapp.com##.top-8.z-10.left-0.fixed.w-screen
 
-! Remove some annoying things
+! remove some annoying things
 www.khanacademy.org##._10otmayb
 
-! I swear I don't read CBC on my own—it was for English class
+! i swear i don't read cbc on my own—it was for english class
 www.cbc.ca##.detailSideRail
 www.cbc.ca##.relatedlinks
 www.cbc.ca##div.detailBodyContainer:nth-of-type(2) > .withFlex
@@ -550,12 +550,12 @@ www.cbc.ca##.milanoGlobalBanner-TdZgM
 www.cbc.ca##.similarListItem
 www.cbc.ca##div.withFlex:nth-of-type(2)
 
-! Hide Lastfm pro upsells
+! hide lastfm pro upsells
 www.last.fm##.buffer-3.your-progress > div
 www.last.fm##.listening-report-row--upsell.listening-report-row--centered.listening-report-row
 www.last.fm##.hidden-xs.promo-v3 > .listening-report-promo--month.listening-report-promo
 
-! Clean up the visual apperance of my SearXNG instance
+! clean up the visual apperance of my searxng instance
 localhost##.language
 localhost##.search_filters
 localhost###backToTop > [href]
@@ -565,3 +565,14 @@ localhost##.thumbnail_link
 
 ! it literally calls itself "disruptive"
 www.canadashistory.ca##.active.hasImage.dark.disruptive-cta
+
+! this is an annoying switcher thing
+docs.google.com##.companion-guest-app-switcher
+
+! stop being stupid
+www.kitchener.ca##.open.base-bg.position-left.usn-notification
+
+! stupid banner
+thecanadianencyclopedia.ca##.donation-banner
+
+
