@@ -110,4 +110,5 @@ www.ted.com##.pt-3.pb-6.w-full.duration-300.transition-all
 keys.lol##.justify-center.lg\:flex.hidden
 www.usdebtclock.org###layer601
 www.theneuron.ai##div.print\:hidden.has-data-empty\:hidden:nth-of-type(3)
+docs.google.com###workspace-onegoogle-pep-container
 
