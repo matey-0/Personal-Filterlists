@@ -450,8 +450,9 @@ www.nytimes.com##.css-m5rkpj
 www.nytimes.com##.css-ui2i83 > ul
 www.nytimes.com##.css-1kj7lfb
 
-! removes something, i forgot what it does. i'd guess removes something annoying ¯\_(ツ)_/¯
+! removes a few ugly elements
 www.canyon.com##.js-accordionToggle.serviceSnapIn__trigger
+www.canyon.com##.productHeroCarousel__pinchGuideWrapper
 
 ! remove pinarello newsletter overlay modal thing
 pinarello.com###nl-pop
