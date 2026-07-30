@@ -108,6 +108,8 @@ kagi.com##.wid_stocks_news_w
 kagi.com##div.wid_stocks_link_ext_w:nth-of-type(7)
 kagi.com##.clearfix._0_SRI_BODY_VID.--vid.__sri-body
 kagi.com##.gap-10.flex.result-comments
+kagi.com##.k_ui_dropdown._0_k_ui_dropdown.__sri_more_menu
+kagi.com##.summarize-link._0_summarize_page
 
 ! quick & dirty slight clean up of qwant, not great, needs improvement at a later date
 www.qwant.com##._2p-Ie._396aK.amHBC._23lip._2loWJ
