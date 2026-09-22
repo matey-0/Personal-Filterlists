@@ -266,6 +266,7 @@ www.youtube.com###menu > .ytd-watch-metadata.style-scope
 www.youtube.com##.ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextIconLeading.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextOverlay.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
 www.youtube.com###subscribe-button-shape
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
+www.youtube.com##.ytBadgeShapeTypography.ytBadgeShapeModern.ytBadgeShapeThumbnailBadge.ytBadgeShapeThumbnailSpecial.ytBadgeShapeHost
 !
 ! my filters that remove crap from mobile youtube (shorts, games, etc)
 m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
