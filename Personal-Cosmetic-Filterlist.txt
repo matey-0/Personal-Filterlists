@@ -586,4 +586,6 @@ www.kitchener.ca##.open.base-bg.position-left.usn-notification
 ! stupid banner
 thecanadianencyclopedia.ca##.donation-banner
 
+! remove annoying promotions
+mail.proton.me##.button.button-medium.button-outline-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient.gap-2
 
