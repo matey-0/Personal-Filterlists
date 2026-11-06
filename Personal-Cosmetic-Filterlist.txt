@@ -503,6 +503,7 @@ docs.google.com##.appsElementsSidekickBarkickCenterDockedButton.javascriptMateri
 docs.google.com###docs-sidekick-button-container
 docs.google.com##.inlineFabBubbleRefineButtonIconOnly.docs-gm3-button.docs-gm3-tonal-button
 docs.google.com###docs-gemini-menu
+docs.google.com##.companion-guest-app-switcher
 
 ! hide a few annoying elements in the gemini web ui
 gemini.google.com##.hide-from-message-actions.show-header.tool-attribution
@@ -580,9 +581,6 @@ localhost##.thumbnail_link
 
 ! it literally calls itself "disruptive"
 www.canadashistory.ca##.active.hasImage.dark.disruptive-cta
-
-! this is an annoying switcher thing
-docs.google.com##.companion-guest-app-switcher
 
 ! stop being stupid
 www.kitchener.ca##.open.base-bg.position-left.usn-notification
