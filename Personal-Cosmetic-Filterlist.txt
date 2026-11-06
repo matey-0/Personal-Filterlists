@@ -501,6 +501,8 @@ docs.google.com###docs-sidekick-gen-ai-promo-button-container
 docs.google.com##.gb_y
 docs.google.com##.appsElementsSidekickBarkickCenterDockedButton.javascriptMaterialdesignGm3WizIconButtonFilledTonalOldTokens.javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button
 docs.google.com###docs-sidekick-button-container
+docs.google.com##.inlineFabBubbleRefineButtonIconOnly.docs-gm3-button.docs-gm3-tonal-button
+docs.google.com###docs-gemini-menu
 
 ! hide a few annoying elements in the gemini web ui
 gemini.google.com##.hide-from-message-actions.show-header.tool-attribution
