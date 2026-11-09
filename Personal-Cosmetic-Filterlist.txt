@@ -578,6 +578,12 @@ localhost###backToTop > [href]
 localhost##.link_on_top_about
 localhost##.link_on_top_preferences
 localhost##.thumbnail_link
+localhost##div.template_group_images:nth-of-type(2)
+localhost##div.template_group_images
+localhost##.disabled_if_nojs.media-loader.collapsed.btn-collapse
+localhost###apis
+localhost###suggestions
+localhost###search_url > .sidebar-collapsible
 
 ! it literally calls itself "disruptive"
 www.canadashistory.ca##.active.hasImage.dark.disruptive-cta
