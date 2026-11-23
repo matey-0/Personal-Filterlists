@@ -116,6 +116,7 @@ kagi.com##.k_ui_dropdown._0_k_ui_dropdown.__sri_more_menu
 kagi.com##.summarize-link._0_summarize_page
 kagi.com##.n_po._0_query_link_item.nav_item
 kagi.com##div._ext_ub_r.sri-group > .search-result._0_SRI > .__sri-body > .__sri-desc._0_DESC > div > .summarize-link._0_summarize_page
+translate.kagi.com##.dark\:bg-black\/40.md\:p-4.max-md\:p-0.backdrop-blur-\[2px\].bg-white\/40.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 
 ! quick & dirty slight clean up of qwant, not great, needs improvement at a later date
 www.qwant.com##._2p-Ie._396aK.amHBC._23lip._2loWJ
@@ -596,4 +597,5 @@ thecanadianencyclopedia.ca##.donation-banner
 
 ! remove annoying promotions
 mail.proton.me##.button.button-medium.button-outline-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient.gap-2
+mail.proton.me##.button.button-pill.button-medium.button-solid-norm.max-w-full.flex.items-center.button-promotion--black-friday-2026.rounded
 
