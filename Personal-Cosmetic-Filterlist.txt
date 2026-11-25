@@ -585,6 +585,7 @@ localhost##.disabled_if_nojs.media-loader.collapsed.btn-collapse
 localhost###apis
 localhost###suggestions
 localhost###search_url > .sidebar-collapsible
+localhost##.llm-model
 
 ! it literally calls itself "disruptive"
 www.canadashistory.ca##.active.hasImage.dark.disruptive-cta
