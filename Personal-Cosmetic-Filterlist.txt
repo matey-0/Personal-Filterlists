@@ -586,6 +586,7 @@ localhost###apis
 localhost###suggestions
 localhost###search_url > .sidebar-collapsible
 localhost##.llm-model
+localhost###categories_container
 
 ! it literally calls itself "disruptive"
 www.canadashistory.ca##.active.hasImage.dark.disruptive-cta
